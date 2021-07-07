@@ -11,6 +11,5 @@
 - [x] Work with any fd, stdin
 - [x] You can define BUFFER_SIZE to read
 - [x] Return 0, when found EOF
-
 - [x] Bonuses: Able to manage multiple file descriptor 
 - [x] Bonuses: Use 1 static variable
